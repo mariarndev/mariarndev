@@ -7,5 +7,5 @@ I'm an UX/UI + AX designer & researcher (specialized in video games). But now I'
 Accessibility, inclusion and diversity advocate
 
 <p align="center"><span>
- <a href="https://github.com/ismerrn"><img height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismerrn&layout=compact&theme=radical&langs_count=10" alt="ismerrn langs stats"/></a>
+ <a href="https://github.com/mariarndev"><img height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismerrn&layout=compact&theme=radical&langs_count=10" alt="ismerrn langs stats"/></a>
 </span></p>
